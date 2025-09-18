@@ -36,7 +36,7 @@ A sleek and responsive **Weather Web App** built with **HTML, CSS, and JavaScrip
 
 ## 👨‍💻 Author
 Created with ❤️ by **[Sudhanshu Thakur](https://github.com/Sudhanshu-Thakur07)**  
-📷 Instagram: [ __sudhanshu_.__](https://instagram.com/__sudhanshu_.__)
+📷 Instagram: [ _sudhanshu_.__](https://instagram.com/_sudhanshu_.__)
 
 
 
