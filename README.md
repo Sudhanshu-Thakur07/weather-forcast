@@ -35,7 +35,7 @@ A sleek and responsive **Weather Web App** built with **HTML, CSS, and JavaScrip
 ---
 
 ## 👨‍💻 Author
-Vibe Coded with ❤️ by **[Sudhanshu Thakur](https://github.com/Sudhanshu-Thakur07)**  
+Vibe Coded by 🔥**[Sudhanshu Thakur](https://github.com/Sudhanshu-Thakur07)**  
 📷 Instagram: [ _sudhanshu_.__](https://www.instagram.com/_sudhanshu_.___)
 
 
