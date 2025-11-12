@@ -2,7 +2,7 @@
 
 A sleek and responsive **Weather Web App** built with **HTML, CSS, and JavaScript** that gives you real-time weather updates for any city in the world.  
 
-🔗 **Live Demo:** [Advance Weather App]https://weather-forecast-by-sudhanshu.netlify.app
+🔗 **Live Demo:** [Advance Weather App][https://weather-forecast-by-sudhanshu.netlify.app/]
 ---
 
 ## ✨ Features
